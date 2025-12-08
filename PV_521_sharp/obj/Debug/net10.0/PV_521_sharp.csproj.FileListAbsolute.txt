@@ -1,0 +1,14 @@
+D:\PV_521_sharp\PV_521_sharp\bin\Debug\net10.0\PV_521_sharp.exe
+D:\PV_521_sharp\PV_521_sharp\bin\Debug\net10.0\PV_521_sharp.deps.json
+D:\PV_521_sharp\PV_521_sharp\bin\Debug\net10.0\PV_521_sharp.runtimeconfig.json
+D:\PV_521_sharp\PV_521_sharp\bin\Debug\net10.0\PV_521_sharp.dll
+D:\PV_521_sharp\PV_521_sharp\bin\Debug\net10.0\PV_521_sharp.pdb
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.AssemblyInfoInputs.cache
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.AssemblyInfo.cs
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.csproj.CoreCompileInputs.cache
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.dll
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\refint\PV_521_sharp.dll
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.pdb
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\PV_521_sharp.genruntimeconfig.cache
+D:\PV_521_sharp\PV_521_sharp\obj\Debug\net10.0\ref\PV_521_sharp.dll
