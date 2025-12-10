@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PV_521_sharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47D9CB7A-FE98-4413-8E2F-E8E0FE23176F}|DZ09.12.2025\\DZ09.12.2025.csproj|d:\\pv_521_sharp\\dz09.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9CB7A-FE98-4413-8E2F-E8E0FE23176F}|DZ09.12.2025\\DZ09.12.2025.csproj|solutionrelative:dz09.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4636861-3425-4C5A-968F-3B83B9E2A7E2}|DZ07.12.2025\\DZ07.12.2025.csproj|d:\\pv_521_sharp\\dz07.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4636861-3425-4C5A-968F-3B83B9E2A7E2}|DZ07.12.2025\\DZ07.12.2025.csproj|solutionrelative:dz07.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,18 +28,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PV_521_sharp\\DZ09.12.2025\\Program.cs",
+              "RelativeDocumentMoniker": "DZ09.12.2025\\Program.cs",
+              "ToolTip": "D:\\PV_521_sharp\\DZ09.12.2025\\Program.cs",
+              "RelativeToolTip": "DZ09.12.2025\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:38:39.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\PV_521_sharp\\DZ07.12.2025\\Program.cs",
               "RelativeDocumentMoniker": "DZ07.12.2025\\Program.cs",
               "ToolTip": "D:\\PV_521_sharp\\DZ07.12.2025\\Program.cs",
               "RelativeToolTip": "DZ07.12.2025\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T19:43:49.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T19:43:49.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PV_521_sharp\\PV_521_sharp\\Program.cs",
               "RelativeDocumentMoniker": "PV_521_sharp\\Program.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "PV_521_sharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T17:14:19.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T17:14:19.941Z"
             }
           ]
         }
