@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\PV_521_sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D9CB7A-FE98-4413-8E2F-E8E0FE23176F}|DZ09.12.2025\\DZ09.12.2025.csproj|d:\\pv_521_sharp\\dz09.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D9CB7A-FE98-4413-8E2F-E8E0FE23176F}|DZ09.12.2025\\DZ09.12.2025.csproj|solutionrelative:dz09.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4636861-3425-4C5A-968F-3B83B9E2A7E2}|DZ07.12.2025\\DZ07.12.2025.csproj|d:\\pv_521_sharp\\dz07.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4636861-3425-4C5A-968F-3B83B9E2A7E2}|DZ07.12.2025\\DZ07.12.2025.csproj|solutionrelative:dz07.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4962BA16-C29D-0CE9-3CCF-90A944F3177F}|PV_521_sharp\\PV_521_sharp.csproj|d:\\pv_521_sharp\\pv_521_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4962BA16-C29D-0CE9-3CCF-90A944F3177F}|PV_521_sharp\\PV_521_sharp.csproj|solutionrelative:pv_521_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{515FD618-C9B1-496E-B005-5459131B0DE9}|dz11.12.2025\\dz11.12.2025.csproj|d:\\pv_521_sharp\\dz11.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515FD618-C9B1-496E-B005-5459131B0DE9}|dz11.12.2025\\dz11.12.2025.csproj|solutionrelative:dz11.12.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\DZ09.12.2025\\Program.cs",
-              "RelativeDocumentMoniker": "DZ09.12.2025\\Program.cs",
-              "ToolTip": "D:\\PV_521_sharp\\DZ09.12.2025\\Program.cs",
-              "RelativeToolTip": "DZ09.12.2025\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PV_521_sharp\\dz11.12.2025\\Program.cs",
+              "RelativeDocumentMoniker": "dz11.12.2025\\Program.cs",
+              "ToolTip": "D:\\PV_521_sharp\\dz11.12.2025\\Program.cs*",
+              "RelativeToolTip": "dz11.12.2025\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:38:39.223Z",
+              "WhenOpened": "2025-12-13T16:59:35.071Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\DZ07.12.2025\\Program.cs",
-              "RelativeDocumentMoniker": "DZ07.12.2025\\Program.cs",
-              "ToolTip": "D:\\PV_521_sharp\\DZ07.12.2025\\Program.cs",
-              "RelativeToolTip": "DZ07.12.2025\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T19:43:49.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\PV_521_sharp\\Program.cs",
-              "RelativeDocumentMoniker": "PV_521_sharp\\Program.cs",
-              "ToolTip": "D:\\PV_521_sharp\\PV_521_sharp\\Program.cs",
-              "RelativeToolTip": "PV_521_sharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T17:14:19.941Z"
             }
           ]
         }

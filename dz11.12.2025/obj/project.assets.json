@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PV_521_sharp\\DZ09.12.2025\\DZ09.12.2025.csproj",
-      "projectName": "DZ09.12.2025",
-      "projectPath": "D:\\PV_521_sharp\\DZ09.12.2025\\DZ09.12.2025.csproj",
+      "projectUniqueName": "D:\\PV_521_sharp\\dz11.12.2025\\dz11.12.2025.csproj",
+      "projectName": "dz11.12.2025",
+      "projectPath": "D:\\PV_521_sharp\\dz11.12.2025\\dz11.12.2025.csproj",
       "packagesPath": "C:\\Users\\denti\\.nuget\\packages\\",
-      "outputPath": "D:\\PV_521_sharp\\DZ09.12.2025\\obj\\",
+      "outputPath": "D:\\PV_521_sharp\\dz11.12.2025\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denti\\AppData\\Roaming\\NuGet\\NuGet.Config",
