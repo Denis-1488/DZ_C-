@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PV_521_sharp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DZ24.12.2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45cf6ce5a4bab8eacb1857284d8388370a970e7")]
-[assembly: System.Reflection.AssemblyProductAttribute("PV_521_sharp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PV_521_sharp")]
+[assembly: System.Reflection.AssemblyProductAttribute("DZ24.12.2025")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DZ24.12.2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
