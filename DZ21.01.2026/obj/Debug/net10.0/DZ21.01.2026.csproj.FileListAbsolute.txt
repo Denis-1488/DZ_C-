@@ -1,0 +1,15 @@
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.AssemblyInfoInputs.cache
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.AssemblyInfo.cs
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.csproj.CoreCompileInputs.cache
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.sourcelink.json
+D:\PV_521_sharp\DZ21.01.2026\bin\Debug\net10.0\DZ21.01.2026.exe
+D:\PV_521_sharp\DZ21.01.2026\bin\Debug\net10.0\DZ21.01.2026.deps.json
+D:\PV_521_sharp\DZ21.01.2026\bin\Debug\net10.0\DZ21.01.2026.runtimeconfig.json
+D:\PV_521_sharp\DZ21.01.2026\bin\Debug\net10.0\DZ21.01.2026.dll
+D:\PV_521_sharp\DZ21.01.2026\bin\Debug\net10.0\DZ21.01.2026.pdb
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.dll
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\refint\DZ21.01.2026.dll
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.pdb
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\DZ21.01.2026.genruntimeconfig.cache
+D:\PV_521_sharp\DZ21.01.2026\obj\Debug\net10.0\ref\DZ21.01.2026.dll
