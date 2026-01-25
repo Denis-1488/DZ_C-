@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\PV_521_sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FD3E2E3-932F-40AA-A90E-D6CFDFD31D3F}|DZ21.01.2026\\DZ21.01.2026.csproj|d:\\pv_521_sharp\\dz21.01.2026\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD3E2E3-932F-40AA-A90E-D6CFDFD31D3F}|DZ21.01.2026\\DZ21.01.2026.csproj|solutionrelative:dz21.01.2026\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FD3E2E3-932F-40AA-A90E-D6CFDFD31D3F}|DZ21.01.2026\\DZ21.01.2026.csproj|d:\\pv_521_sharp\\dz21.01.2026\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD3E2E3-932F-40AA-A90E-D6CFDFD31D3F}|DZ21.01.2026\\DZ21.01.2026.csproj|solutionrelative:dz21.01.2026\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2E79420-767A-4C2A-B716-9EC3D3E16D15}|DZ23.01.2026\\DZ23.01.2026.csproj|d:\\pv_521_sharp\\dz23.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E79420-767A-4C2A-B716-9EC3D3E16D15}|DZ23.01.2026\\DZ23.01.2026.csproj|solutionrelative:dz23.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program1.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\DZ21.01.2026\\Program1.cs",
-              "RelativeDocumentMoniker": "DZ21.01.2026\\Program1.cs",
-              "ToolTip": "D:\\PV_521_sharp\\DZ21.01.2026\\Program1.cs",
-              "RelativeToolTip": "DZ21.01.2026\\Program1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABQAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PV_521_sharp\\DZ23.01.2026\\Program.cs",
+              "RelativeDocumentMoniker": "DZ23.01.2026\\Program.cs",
+              "ToolTip": "D:\\PV_521_sharp\\DZ23.01.2026\\Program.cs",
+              "RelativeToolTip": "DZ23.01.2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T17:02:42.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program2.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\DZ21.01.2026\\Program2.cs",
-              "RelativeDocumentMoniker": "DZ21.01.2026\\Program2.cs",
-              "ToolTip": "D:\\PV_521_sharp\\DZ21.01.2026\\Program2.cs",
-              "RelativeToolTip": "DZ21.01.2026\\Program2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T17:04:26.654Z",
+              "WhenOpened": "2026-01-25T21:57:55.294Z",
               "EditorCaption": ""
             }
           ]
