@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\PV_521_sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2E79420-767A-4C2A-B716-9EC3D3E16D15}|DZ23.01.2026\\DZ23.01.2026.csproj|d:\\pv_521_sharp\\dz23.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2E79420-767A-4C2A-B716-9EC3D3E16D15}|DZ23.01.2026\\DZ23.01.2026.csproj|solutionrelative:dz23.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7C45A4C-F3D6-4148-A43F-132217F6EFBE}|DZ28.01.2026\\DZ28.01.2026.csproj|d:\\pv_521_sharp\\dz28.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C45A4C-F3D6-4148-A43F-132217F6EFBE}|DZ28.01.2026\\DZ28.01.2026.csproj|solutionrelative:dz28.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\DZ23.01.2026\\Program.cs",
-              "RelativeDocumentMoniker": "DZ23.01.2026\\Program.cs",
-              "ToolTip": "D:\\PV_521_sharp\\DZ23.01.2026\\Program.cs",
-              "RelativeToolTip": "DZ23.01.2026\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwEAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PV_521_sharp\\DZ28.01.2026\\Program.cs",
+              "RelativeDocumentMoniker": "DZ28.01.2026\\Program.cs",
+              "ToolTip": "D:\\PV_521_sharp\\DZ28.01.2026\\Program.cs",
+              "RelativeToolTip": "DZ28.01.2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T21:57:55.294Z",
+              "WhenOpened": "2026-01-30T17:45:44.354Z",
               "EditorCaption": ""
             }
           ]
