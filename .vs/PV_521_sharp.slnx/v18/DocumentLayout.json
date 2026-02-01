@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\PV_521_sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7C45A4C-F3D6-4148-A43F-132217F6EFBE}|DZ28.01.2026\\DZ28.01.2026.csproj|d:\\pv_521_sharp\\dz28.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7C45A4C-F3D6-4148-A43F-132217F6EFBE}|DZ28.01.2026\\DZ28.01.2026.csproj|solutionrelative:dz28.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45CC1779-A0A3-45B1-8D44-1AABF3CA3CBF}|DZ31.01.2026\\DZ31.01.2026.csproj|d:\\pv_521_sharp\\dz31.01.2026\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC1779-A0A3-45B1-8D44-1AABF3CA3CBF}|DZ31.01.2026\\DZ31.01.2026.csproj|solutionrelative:dz31.01.2026\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC1779-A0A3-45B1-8D44-1AABF3CA3CBF}|DZ31.01.2026\\DZ31.01.2026.csproj|d:\\pv_521_sharp\\dz31.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC1779-A0A3-45B1-8D44-1AABF3CA3CBF}|DZ31.01.2026\\DZ31.01.2026.csproj|solutionrelative:dz31.01.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC1779-A0A3-45B1-8D44-1AABF3CA3CBF}|DZ31.01.2026\\DZ31.01.2026.csproj|d:\\pv_521_sharp\\dz31.01.2026\\continents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC1779-A0A3-45B1-8D44-1AABF3CA3CBF}|DZ31.01.2026\\DZ31.01.2026.csproj|solutionrelative:dz31.01.2026\\continents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PV_521_sharp\\DZ28.01.2026\\Program.cs",
-              "RelativeDocumentMoniker": "DZ28.01.2026\\Program.cs",
-              "ToolTip": "D:\\PV_521_sharp\\DZ28.01.2026\\Program.cs",
-              "RelativeToolTip": "DZ28.01.2026\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Continents.cs",
+              "DocumentMoniker": "D:\\PV_521_sharp\\DZ31.01.2026\\Continents.cs",
+              "RelativeDocumentMoniker": "DZ31.01.2026\\Continents.cs",
+              "ToolTip": "D:\\PV_521_sharp\\DZ31.01.2026\\Continents.cs",
+              "RelativeToolTip": "DZ31.01.2026\\Continents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T17:45:44.354Z",
+              "WhenOpened": "2026-02-01T12:23:00.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "D:\\PV_521_sharp\\DZ31.01.2026\\Animals.cs",
+              "RelativeDocumentMoniker": "DZ31.01.2026\\Animals.cs",
+              "ToolTip": "D:\\PV_521_sharp\\DZ31.01.2026\\Animals.cs",
+              "RelativeToolTip": "DZ31.01.2026\\Animals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:22:31.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PV_521_sharp\\DZ31.01.2026\\Program.cs",
+              "RelativeDocumentMoniker": "DZ31.01.2026\\Program.cs",
+              "ToolTip": "D:\\PV_521_sharp\\DZ31.01.2026\\Program.cs",
+              "RelativeToolTip": "DZ31.01.2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:22:15.658Z",
               "EditorCaption": ""
             }
           ]

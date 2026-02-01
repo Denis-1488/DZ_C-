@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PV_521_sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b3a14d2e931e7af5fdd4b3d99b01783c01f0039")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f568ae43a3481c06ffdc36828bf0ca8c3c5d6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PV_521_sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PV_521_sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
